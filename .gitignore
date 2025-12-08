@@ -1,0 +1,32 @@
+# 前端相关
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.vscode/
+frontend/.idea/
+frontend/*.swp
+frontend/*.swo
+
+# 后端相关
+backend/__pycache__/
+backend/.env
+backend/.idea/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/venv/
+backend/.vscode/
+backend/npm-debug.log*
+
+# 通用过滤
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+__pycache__/
